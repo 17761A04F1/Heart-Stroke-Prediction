@@ -1,1 +1,2 @@
 # Heart-Stroke-Prediction
+Intially I have made some visualizations using seaborn and later used some ML models for predicting the stroke. I found that in my data set I have minority class, to balance this I have used over sampling. But I have found that my accuracy is reduced even after balancing the data. But the model is able to predict minority class after over sampling. I found SVM is suitable.
